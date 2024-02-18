@@ -1,7 +1,7 @@
-# asdsa
+# README Generator
 
 ## Description
-asdasd
+This....
 
 ## Table of Contents
 - [Description](#description)
@@ -13,20 +13,20 @@ asdasd
 - [Contact](#contact)
 
 ## Installation Instructions
-asdasd
+I don't have any...
 
 ## Usage
-gsdasdf
+There are none.
 
 ## Contribution Guidelines
-asdasd
+Matt Kelly did all this.
 
 ## Tests
-asdasd
+There were no tests.
 
 ## License
-![License](https://img.shields.io/badge/license-AGPL%203.0-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Contact
-GitHub: [asdasd](https://github.com/asdasd)
-Email: asdasf
+GitHub: [mattkellyirl](https://github.com/mattkellyirl)
+Email: mattkellyvisual@gmail.com
