@@ -1,4 +1,4 @@
-# Project Title: ${response.title}
+# ${response.title}
 
 ## Description
 ${response.description}
@@ -30,5 +30,3 @@ ${response.license}
 ## Contact
 GitHub: [${response.username}](https://github.com/${response.username})
 Email: ${response.email}
-
-- [Return To Top](#project-title)
